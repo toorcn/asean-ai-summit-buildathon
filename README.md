@@ -103,6 +103,22 @@ Notes
 - Without `BACKEND_HOSPITALS_URL`, the app serves mock hospitals.
 - With the backend running and `BACKEND_HOSPITALS_URL` set, the UI ranks hospitals by (travel ETA + wait).
 
+## Team
+- Team name: Bukkit Tinggi
+- Members:
+  - Eilliyah Fong — Team Lader, mainly responsible for product presentation side of things. Edited the video and script for product presentation using CapCut.
+  - Isaac — Jack of all trades, support in every available department to boost team productivity.
+  - Nicholas Cheong — Second in charge for product presentation. Mainly responsible for presentation desigining using Canva, and responsible for script editing.
+  - Ong Kok Donq - Backend developer, Python as main programming language, with APIs like gpt-5-nano for Computer Vision, Google Maps API for nearby hospitals, MySQL for caching and FastAPI for information transfers.
+  - Hong Bing Sim - Frontend developer, Next.js as main framework using TypeScript and JavaScript. 
+
+## Acknowledgements
+- AI Tinkerers Kuala Lumpur — Buildathon organizer and community support
+- Google Maps Platform — Places and Routes APIs
+- Groq — LLM and TTS
+- OpenAI — optional Vision for camera headcount
+
 ## Troubleshooting
 - Google API errors: ensure Places + Routes are enabled and the key isn’t overly restricted.
 - MySQL errors: create the `hospitals` table (schema above) or run without calling `/nearby-hospitals`.
+- Groq errors: ensure `GROQ_API_KEY` is set and selected models are supported
