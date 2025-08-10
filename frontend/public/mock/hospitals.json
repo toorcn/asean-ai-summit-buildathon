@@ -1,0 +1,82 @@
+[
+  {
+    "id": "msia-001",
+    "name": "Hospital Kuala Lumpur",
+    "location": { "lat": 3.1735, "lng": 101.6932 },
+    "travelEtaMinutes": 14,
+    "waitMinutes": 32,
+    "rating": 4.2
+  },
+  {
+    "id": "msia-002",
+    "name": "Hospital Selayang",
+    "location": { "lat": 3.2637, "lng": 101.6517 },
+    "travelEtaMinutes": 22,
+    "waitMinutes": 28,
+    "rating": 4.1
+  },
+  {
+    "id": "msia-003",
+    "name": "Hospital Putrajaya",
+    "location": { "lat": 2.9285, "lng": 101.6964 },
+    "travelEtaMinutes": 26,
+    "waitMinutes": 20,
+    "rating": 4.3
+  },
+  {
+    "id": "msia-004",
+    "name": "Hospital Serdang",
+    "location": { "lat": 2.9812, "lng": 101.7436 },
+    "travelEtaMinutes": 24,
+    "waitMinutes": 35,
+    "rating": 4.0
+  },
+  {
+    "id": "msia-005",
+    "name": "Hospital Shah Alam",
+    "location": { "lat": 3.0965, "lng": 101.5330 },
+    "travelEtaMinutes": 30,
+    "waitMinutes": 18,
+    "rating": 4.0
+  },
+  {
+    "id": "msia-006",
+    "name": "Hospital Tengku Ampuan Rahimah Klang",
+    "location": { "lat": 3.0366, "lng": 101.4455 },
+    "travelEtaMinutes": 33,
+    "waitMinutes": 27,
+    "rating": 3.9
+  },
+  {
+    "id": "msia-007",
+    "name": "Hospital Pulau Pinang",
+    "location": { "lat": 5.4164, "lng": 100.3288 },
+    "travelEtaMinutes": 8,
+    "waitMinutes": 40,
+    "rating": 4.4
+  },
+  {
+    "id": "msia-008",
+    "name": "Hospital Sungai Buloh",
+    "location": { "lat": 3.2138, "lng": 101.5767 },
+    "travelEtaMinutes": 28,
+    "waitMinutes": 22,
+    "rating": 4.1
+  },
+  {
+    "id": "msia-009",
+    "name": "Hospital Sultanah Aminah Johor Bahru",
+    "location": { "lat": 1.4763, "lng": 103.7470 },
+    "travelEtaMinutes": 10,
+    "waitMinutes": 34,
+    "rating": 4.2
+  },
+  {
+    "id": "msia-010",
+    "name": "Hospital Queen Elizabeth Kota Kinabalu",
+    "location": { "lat": 5.9510, "lng": 116.0706 },
+    "travelEtaMinutes": 16,
+    "waitMinutes": 29,
+    "rating": 4.3
+  }
+]
