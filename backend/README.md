@@ -112,6 +112,7 @@ total_time_minutes = eta_minutes + wait_minutes
 * **RNG bounds** (when needed):
   `people: 20–40`, `per_person_minutes: 21–30`, `doctors_working: 1–20`, then the **same parallel formula** above.
   References: https://www.researchgate.net/publication/317068006_An_assessment_of_patient_waiting_and_consultation_time_in_a_primary_healthcare_clinic#:~:text=Studies%20from%20abroad%20have%20shown,ORIGINAL%20ARTICLE
+  <br>
   <img width="373" height="369" alt="image" src="https://github.com/user-attachments/assets/495c3f15-f2f9-48b7-ae62-28c99d1e636c" />
 * **Zero/edge cases:**
   `doctors_working` is clamped with `max(1, doctors_working)`; `people=0 → wait=0`.
