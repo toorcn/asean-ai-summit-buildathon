@@ -1,10 +1,10 @@
-# AI Tinkerers Hackathon
+# Backend
 
-Welcome to the **AI Tinkerers Hackathon** repository! This project is focused on utilizing AI to enhance healthcare efficiency by estimating hospital wait times and providing recommendations based on real-time data.
+Welcome to the **Backend** repository! This project is focused on utilizing AI to enhance healthcare efficiency by estimating hospital wait times and providing recommendations based on real-time data.
 
 ## Overview
 
-The repository is a Python-based solution that processes data from hospital cameras, integrates with external APIs to calculate travel times, and provides users with estimated total times (ETA) for hospitals. The primary goal is to help patients make informed decisions by combining:
+The backend is a Python-based API solution that processes data from hospital cameras, integrates with external APIs to calculate travel times, and provides users with estimated total times (ETA) for hospitals. The primary goal is to help patients make informed decisions by combining:
 
 - **Drive ETA**: Estimated time to drive to the hospital.
 - **Live Wait Time**: Calculated wait time based on real-time data.
